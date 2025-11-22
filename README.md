@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="bg.png" alt="Pranav Tayade Banner" />
+  <img src="bg1.png" alt="Pranav Tayade Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Pranav Tayade</h1>
