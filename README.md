@@ -48,7 +48,7 @@
 - Admin dashboards  
 - Authentication systems  
 
-### 🔹 AI-Based Fake Complaint Categorization (NLP)
+### 🔹 AI-Based Fake Complaint Detection
 - Auto-classifies user complaints  
 - Improves response time  
 - Future-scope ML project
