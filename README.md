@@ -43,10 +43,10 @@
 
 ## 🚀 Featured Projects
   
-### 🔹 Full-Stack Web Applications
-- User-friendly UI  
-- Admin dashboards  
-- Authentication systems  
+### 🔹 AI Resume Analyzer
+- Compares resumes with job descriptions using text-matching. 
+- Shows matching skills, missing skills, and improvement suggestions  
+- Designed as a future-ready ATS & AI-powered resume analysis tool.  
 
 ### 🔹 AI-Based Fake Complaint Detection
 - Auto-classifies user complaints  
@@ -70,7 +70,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:pranavtayade358@gmail.com">
+  <a href="mailto:pranavtayade197@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
