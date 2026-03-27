@@ -1,7 +1,5 @@
 <!-- Banner -->
-<p align="center">
-  <img src="bg1.png" alt="Pranav Tayade Banner" />
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Pranav Tayade</h1>
 <h3 align="center">Aspiring Software & AI Developer | IT Undergraduate</h3>
