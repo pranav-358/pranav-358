@@ -54,9 +54,10 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranav-358&show_icons=true&theme=dracula&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pranav-358&theme=dracula&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pranav-358&show_icons=true&theme=dracula&hide_border=true&v=2" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pranav-358&theme=dracula&hide_border=true&v=2" alt="GitHub Streak" />
 </p>
 
 ---
