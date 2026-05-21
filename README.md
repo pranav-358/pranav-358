@@ -54,10 +54,9 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranav-358&show_icons=true&theme=dracula&hide_border=true&v=3)](https://github.com/anuraghazra/github-readme-stats)
-</p>
-<p align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pranav-358&theme=dracula&hide_border=true&v=3)](https://github.com/DenverCoder1/github-readme-streak-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=pranav-358&show_icons=true&theme=dracula&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pranav-358&theme=dracula&hide_border=true" />
 </p>
 
 ---
